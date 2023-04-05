@@ -8,3 +8,8 @@
 	url = https://github.com/dbasu-umass/bate
 	shallow = true
 	registered = true
+[submodule "clptheory"]
+	path = clptheory
+	url = https://github.com/dbasu-umass/clptheory
+	shallow = true
+	registered = true
