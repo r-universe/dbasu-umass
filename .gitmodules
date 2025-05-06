@@ -8,3 +8,6 @@
 [submodule "clptheory"]
 	path = clptheory
 	url = https://github.com/dbasu-umass/clptheory
+[submodule "ovbsa"]
+	path = ovbsa
+	url = https://github.com/dbasu-umass/ovbsa
